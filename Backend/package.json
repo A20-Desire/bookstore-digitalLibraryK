@@ -1,0 +1,30 @@
+{
+  "name": "digitalibrary",
+  "version": "1.0.0",
+  "description": "mern project digital library",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randaabdoerfan/Digital-Library.git"
+  },
+  "author": "Randa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randaabdoerfan/Digital-Library/issues"
+  },
+  "homepage": "https://github.com/randaabdoerfan/Digital-Library#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.0",
+    "node-fetch": "^2.7.0",
+    "nodemon": "^3.1.7"
+  }
+}

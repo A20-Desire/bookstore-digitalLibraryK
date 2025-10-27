@@ -1,0 +1,1497 @@
+[
+  {
+    "book_id": 1,
+    "price": 272,
+    "author": "Suzanne Collins",
+    "title": "The Hunger Games (The Hunger Games, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1447303603m/2767052.jpg",
+    "description": "A dystopian battle for survival.",
+    "category": "Buy",
+    "Pages": 374
+  },
+  {
+    "book_id": 2,
+    "price": 491,
+    "author": "J.K. Rowling,",
+    "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1474154022m/3.jpg",
+
+    "description": "A boy discovers he's a wizard.",
+    "category": "Buy",
+    "Pages": 309
+  },
+  {
+    "book_id": 3,
+    "price": 226,
+    "author": "Stephenie Meyer",
+    "title": "Twilight (Twilight, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1361039443m/41865.jpg",
+
+    "description": "A love story between a human and a vampire.",
+    "category": "Buy",
+    "Pages": 498
+  },
+  {
+    "book_id": 6,
+    "price": 228,
+    "author": "John Green",
+    "title": "The Fault in Our Stars",
+    "imageLink": "https://images.gr-assets.com/books/1360206420m/11870085.jpg",
+
+    "description": "A poignant tale of love among cancer patients.",
+    "category": "Buy",
+    "Pages": 525
+  },
+  {
+    "book_id": 12,
+    "price": 210,
+    "author": "Veronica Roth",
+    "title": "Divergent (Divergent, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1328559506m/13335037.jpg",
+
+    "description": "A girl fights against societal factions.",
+    "category": "Buy",
+    "Pages": 318
+  },
+  {
+    "book_id": 17,
+    "price": 201,
+    "author": "Suzanne Collins",
+    "title": "Catching Fire (The Hunger Games, #2)",
+    "imageLink": "https://images.gr-assets.com/books/1358273780m/6148028.jpg",
+
+    "description": "The sequel to the Hunger Games.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 18,
+    "price": 376,
+    "author": "J.K. Rowling",
+    "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+    "imageLink": "https://images.gr-assets.com/books/1499277281m/5.jpg",
+
+    "description": "Harry faces dark secrets from the past.",
+    "category": "Buy",
+    "Pages": 384
+  },
+  {
+    "book_id": 20,
+    "price": 239,
+    "author": "Suzanne Collins",
+    "title": "Mockingjay (The Hunger Games, #3)",
+    "imageLink": "https://images.gr-assets.com/books/1358275419m/7260188.jpg",
+
+    "description": "The final battle in the Hunger Games series.",
+    "category": "Buy",
+    "Pages": 468
+  },
+  {
+    "book_id": 21,
+    "price": 307,
+    "author": "J.K. Rowling",
+    "title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+    "imageLink": "https://images.gr-assets.com/books/1387141547m/2.jpg",
+
+    "description": "Harry battles a secret society.",
+    "category": "Buy",
+    "Pages": 496
+  },
+  {
+    "book_id": 23,
+    "price": 398,
+    "author": "J.K. Rowling, Mary GrandPr�",
+    "title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
+    "imageLink": "https://images.gr-assets.com/books/1474169725m/15881.jpg",
+
+    "description": "Harry uncovers secrets at Hogwarts.",
+    "category": "Buy",
+    "Pages": 303
+  },
+  {
+    "book_id": 24,
+    "price": 332,
+    "author": "J.K. Rowling",
+    "title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+    "imageLink": "https://images.gr-assets.com/books/1361482611m/6.jpg",
+
+    "description": "Harry competes in a dangerous tournament.",
+    "category": "Buy",
+    "Pages": 550
+  },
+  {
+    "book_id": 25,
+    "price": 263,
+    "author": "J.K. Rowling,",
+    "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+    "imageLink": "https://images.gr-assets.com/books/1474171184m/136251.jpg",
+
+    "description": "The final quest to defeat Voldemort.",
+    "category": "Buy",
+    "Pages": 385
+  },
+  {
+    "book_id": 27,
+    "price": 275,
+    "author": "J.K. Rowling, Mary GrandPr�",
+    "title": "Harry Potter and the Half-Blood Prince (Harry Potter, #6)",
+    "imageLink": "https://images.gr-assets.com/books/1361039191m/1.jpg",
+
+    "description": "Dark forces threaten the wizarding world.",
+    "category": "Buy",
+    "Pages": 432
+  },
+  {
+    "book_id": 37,
+    "price": 474,
+    "author": "C.S. Lewis",
+    "title": "The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1353029077m/100915.jpg",
+
+    "description": "Children discover a magical world.",
+    "category": "Buy",
+    "Pages": 334
+  },
+  {
+    "book_id": 41,
+    "price": 159,
+    "author": "Rick Riordan",
+    "title": "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1400602609m/28187.jpg",
+
+    "description": "A boy discovers he's a demigod.",
+    "category": "Buy",
+    "Pages": 465
+  },
+  {
+    "book_id": 47,
+    "price": 251,
+    "author": "Markus Zusak",
+    "title": "The Book Thief",
+    "imageLink": "https://images.gr-assets.com/books/1390053681m/19063.jpg",
+
+    "description": "A girl finds solace in books during WWII.",
+    "category": "Buy",
+    "Pages": 350
+  },
+  {
+    "book_id": 49,
+    "price": 194,
+    "author": "Stephenie Meyer",
+    "title": "New Moon (Twilight, #2)",
+    "imageLink": "https://images.gr-assets.com/books/1361039440m/49041.jpg",
+
+    "description": "Love and heartbreak in a supernatural world.",
+    "category": "Buy",
+    "Pages": 373
+  },
+  {
+    "book_id": 51,
+    "price": 178,
+    "author": "Cassandra Clare",
+    "title": "City of Bones (The Mortal Instruments, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1432730315m/256683.jpg",
+
+    "description": "A girl discovers her heritage in a hidden world.",
+    "category": "Buy",
+    "Pages": 248
+  },
+  {
+    "book_id": 52,
+    "price": 185,
+    "author": "Stephenie Meyer",
+    "title": "Eclipse (Twilight, #3)",
+    "imageLink": "https://images.gr-assets.com/books/1361038355m/428263.jpg",
+
+    "description": "A love triangle escalates between Bella, Edward, and Jacob.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 53,
+    "price": 217,
+    "author": "Christopher Paolini",
+    "title": "Eragon (The Inheritance Cycle, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1366212852m/113436.jpg",
+
+    "description": "A young farm boy becomes a dragon rider.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 62,
+    "price": 287,
+    "author": "Philip Pullman",
+    "title": "The Golden Compass (His Dark Materials, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1451271747m/119322.jpg",
+
+    "description": "A girl journeys through parallel worlds.",
+    "category": "Buy",
+    "Pages": 306
+  },
+  {
+    "book_id": 68,
+    "price": 128,
+    "author": "Stephen Chbosky",
+    "title": "The Perks of Being a Wallflower",
+    "imageLink": "https://images.gr-assets.com/books/1167352178m/22628.jpg",
+
+    "description": "A coming-of-age story about friendship and love.",
+    "category": "Buy",
+    "Pages": 352
+  },
+  {
+    "book_id": 69,
+    "price": 164,
+    "author": "Veronica Roth",
+    "title": "Insurgent (Divergent, #2)",
+    "imageLink": "https://images.gr-assets.com/books/1325667729m/11735983.jpg",
+
+    "description": "The fight against oppression continues.",
+    "category": "Buy",
+    "Pages": 283
+  },
+  {
+    "book_id": 70,
+    "price": 224,
+    "author": "Orson Scott Card",
+    "title": "Ender's Game (Ender's Saga, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1408303130m/375802.jpg",
+
+    "description": "A boy trains to save humanity from alien attack.",
+    "category": "Buy",
+    "Pages": 528
+  },
+  {
+    "book_id": 73,
+    "price": 161,
+    "author": "Stephenie Meyer",
+    "title": "The Host (The Host, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1318009171m/1656001.jpg",
+
+    "description": "A love story set in a world occupied by aliens.",
+    "category": "Buy",
+    "Pages": 418
+  },
+  {
+    "book_id": 74,
+    "price": 187,
+    "author": "John Green",
+    "title": "Looking for Alaska",
+    "imageLink": "https://images.gr-assets.com/books/1394798630m/99561.jpg",
+
+    "description": "A boy searches for answers after a tragedy.",
+    "category": "Buy",
+    "Pages": 384
+  },
+  {
+    "book_id": 77,
+    "price": 138,
+    "author": "Louis Sachar, Louis Sachar",
+    "title": "Holes (Holes, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1327781893m/38709.jpg",
+
+    "description": "A boy is sent to a juvenile detention camp.",
+    "category": "Buy",
+    "Pages": 408
+  },
+  {
+    "book_id": 88,
+    "price": 178,
+    "author": "John Green",
+    "title": "Paper Towns",
+    "imageLink": "https://images.gr-assets.com/books/1349013610m/6442769.jpg",
+
+    "description": "A quest to find a missing friend.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 90,
+    "price": 156,
+    "author": "S.E. Hinton",
+    "title": "The Outsiders",
+    "imageLink": "https://images.gr-assets.com/books/1442129426m/231804.jpg",
+
+    "description": "A tale of friendship and rivalry among teens.",
+    "category": "Buy",
+    "Pages": 376
+  },
+  {
+    "book_id": 91,
+    "price": 147,
+    "author": "James Dashner",
+    "title": "The Maze Runner (Maze Runner, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1375596592m/6186357.jpg",
+
+    "description": "Teens navigate a deadly maze to escape.",
+    "category": "Buy",
+    "Pages": 480
+  },
+  {
+    "book_id": 105,
+    "price": 153,
+    "author": "Veronica Roth",
+    "title": "Allegiant (Divergent, #3)",
+    "imageLink": "https://images.gr-assets.com/books/1395582745m/18710190.jpg",
+
+    "description": "The truth behind the factions is revealed.",
+    "category": "Buy",
+    "Pages": 370
+  },
+  {
+    "book_id": 117,
+    "price": 165,
+    "author": "Madeleine L'Engle",
+    "title": "A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1329061522m/18131.jpg",
+
+    "description": "A journey through time and space to rescue a father.",
+    "category": "Buy",
+    "Pages": 600
+  },
+  {
+    "book_id": 120,
+    "price": 93,
+    "author": "Ann Brashares",
+    "title": "The Sisterhood of the Traveling Pants (Sisterhood, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1461611233m/452306.jpg",
+
+    "description": "Four friends share a magical pair of jeans.",
+    "category": "Buy",
+    "Pages": 350
+  },
+  {
+    "book_id": 134,
+    "price": 122,
+    "author": "Cassandra Clare",
+    "title": "City of Glass (The Mortal Instruments, #3)",
+    "imageLink": "https://images.gr-assets.com/books/1369452339m/3777732.jpg",
+
+    "description": "Clary faces dangerous new challenges.",
+    "category": "Buy",
+    "Pages": 310
+  },
+  {
+    "book_id": 139,
+    "price": 155,
+    "author": "Ransom Riggs",
+    "title": "Miss Peregrine?s Home for Peculiar Children (Miss Peregrine?s Peculiar Children, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1472782916m/9460487.jpg",
+
+    "description": "A boy discovers a home for children with powers.",
+    "category": "Buy",
+    "Pages": 400
+  },
+  {
+    "book_id": 147,
+    "price": 150,
+    "author": "Jay Asher",
+    "title": "Thirteen Reasons Why",
+    "imageLink": "https://images.gr-assets.com/books/1333822506m/1217100.jpg",
+
+    "description": "A girl leaves tapes explaining her suicide.",
+    "category": "Buy",
+    "Pages": 380
+  },
+  {
+    "book_id": 149,
+    "price": 130,
+    "author": "Gayle Forman",
+    "title": "If I Stay (If I Stay, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1347462970m/4374400.jpg",
+
+    "description": "A girl must choose between life and death.",
+    "category": "Buy",
+    "Pages": 276
+  },
+  {
+    "book_id": 151,
+    "price": 121,
+    "author": "Rick Riordan",
+    "title": "The Sea of Monsters (Percy Jackson and the Olympians, #2)",
+    "imageLink": "https://images.gr-assets.com/books/1400602661m/28186.jpg",
+
+    "description": "Percy faces new monsters and challenges.",
+    "category": "Buy",
+    "Pages": 180
+  },
+  {
+    "book_id": 153,
+    "price": 125,
+    "author": "Cassandra Clare",
+    "title": "City of Ashes (The Mortal Instruments, #2)",
+    "imageLink": "https://images.gr-assets.com/books/1432730356m/1582996.jpg",
+
+    "description": "Clary learns more about her past.",
+    "category": "Buy",
+    "Pages": 180
+  },
+  {
+    "book_id": 159,
+    "price": 92,
+    "author": "Rick Riordan",
+    "title": "The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",
+    "imageLink": "https://images.gr-assets.com/books/1443142158m/2120932.jpg",
+
+    "description": "A quest to save Camp Half-Blood.",
+    "category": "Buy",
+    "Pages": 200
+  },
+  {
+    "book_id": 164,
+    "price": 103,
+    "author": "Rainbow Rowell",
+    "title": "Eleanor & Park",
+    "imageLink": "https://images.gr-assets.com/books/1341952742m/15745753.jpg",
+
+    "description": "A touching romance set in the 1980s.",
+    "category": "Buy",
+    "Pages": 320
+  },
+  {
+    "book_id": 166,
+    "price": 84,
+    "author": "Ally Condie",
+    "title": "Matched (Matched, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1367706191m/7735333.jpg",
+
+    "description": "A girl struggles against a controlled society.",
+    "category": "Buy",
+    "Pages": 400
+  },
+  {
+    "book_id": 175,
+    "price": 87,
+    "author": "Rick Riordan",
+    "title": "The Last Olympian (Percy Jackson and the Olympians, #5)",
+    "imageLink": "https://images.gr-assets.com/books/1327924597m/4502507.jpg",
+
+    "description": "The final showdown with the Titans.",
+    "category": "Buy",
+    "Pages": 320
+  },
+  {
+    "book_id": 182,
+    "price": 119,
+    "author": "Kami Garcia, Margaret Stohl",
+    "title": "Beautiful Creatures (Caster Chronicles, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1327873282m/6304335.jpg",
+
+    "description": "A supernatural love story in the South.",
+    "category": "Buy",
+    "Pages": 228
+  },
+  {
+    "book_id": 183,
+    "price": 103,
+    "author": "Cassandra Clare",
+    "title": "Clockwork Angel (The Infernal Devices, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1454962884m/7171637.jpg",
+
+    "description": "A steampunk adventure filled with danger.",
+    "category": "Buy",
+    "Pages": 400
+  },
+  {
+    "book_id": 187,
+    "price": 98,
+    "author": "Scott Westerfeld",
+    "title": "Uglies (Uglies, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1443904172m/24770.jpg",
+
+    "description": "A society obsessed with beauty and perfection.",
+    "category": "Buy",
+    "Pages": 208
+  },
+  {
+    "book_id": 202,
+    "price": 91,
+    "author": "Becca Fitzpatrick",
+    "title": "Hush, Hush (Hush, Hush, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1358261334m/6339664.jpg",
+
+    "description": "A girl falls for a mysterious boy with secrets.",
+    "category": "Buy",
+    "Pages": 272
+  },
+  {
+    "book_id": 206,
+    "price": 93,
+    "author": "Kiera Cass",
+    "title": "The Selection (The Selection, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1322103400m/10507293.jpg",
+
+    "description": "A competition to win a prince's heart.",
+    "category": "Buy",
+    "Pages": 420
+  },
+  {
+    "book_id": 214,
+    "price": 94,
+    "author": "Rick Riordan",
+    "title": "The Titan's Curse (Percy Jackson and the Olympians, #3)",
+    "imageLink": "https://images.gr-assets.com/books/1361038385m/561456.jpg",
+
+    "description": "Percy faces new challenges and enemies.",
+    "category": "Buy",
+    "Pages": 224
+  },
+  {
+    "book_id": 219,
+    "price": 270,
+    "author": "C.S. Lewis, Pauline Baynes",
+    "title": "The Chronicles of Narnia (Chronicles of Narnia, #1-7)",
+    "imageLink": "https://images.gr-assets.com/books/1449868701m/11127.jpg",
+
+    "description": "The complete adventures in Narnia.",
+    "category": "Buy",
+    "Pages": 512
+  },
+  {
+    "book_id": 220,
+    "price": 20,
+    "author": "Mark Cotta Vaz",
+    "title": "Twilight: The Complete Illustrated Movie Companion",
+    "imageLink": "https://images.gr-assets.com/books/1352539022m/3609760.jpg",
+
+    "description": "An illustrated guide to the Twilight saga.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 223,
+    "price": 163,
+    "author": "Eoin Colfer",
+    "title": "Artemis Fowl (Artemis Fowl, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1327945104m/249747.jpg",
+
+    "description": "A boy genius kidnaps a fairy for ransom.",
+    "category": "Buy",
+    "Pages": 370
+  },
+  {
+    "book_id": 224,
+    "price": 97,
+    "author": "Lauren Kate",
+    "title": "Fallen (Fallen, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1440619649m/6487308.jpg",
+
+    "description": "A love story between a girl and a fallen angel.",
+    "category": "Buy",
+    "Pages": 384
+  },
+  {
+    "book_id": 234,
+    "price": 87,
+    "author": "Laurie Halse Anderson",
+    "title": "Speak",
+    "imageLink": "https://images.gr-assets.com/books/1310121762m/439288.jpg",
+
+    "description": "A girl finds her voice after trauma.",
+    "category": "Buy",
+    "Pages": 420
+  },
+  {
+    "book_id": 241,
+    "price": 81,
+    "author": "Lois Lowry",
+    "title": "Number the Stars",
+    "imageLink": "https://images.gr-assets.com/books/1370917812m/47281.jpg",
+
+    "description": "A girl helps her Jewish friend escape Nazis.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 245,
+    "price": 125,
+    "author": "Katherine Paterson",
+    "title": "Bridge to Terabithia",
+    "imageLink": "https://images.gr-assets.com/books/1327880087m/2839.jpg",
+
+    "description": "A friendship grows through imagination and loss.",
+    "category": "Buy",
+    "Pages": 352
+  },
+  {
+    "book_id": 246,
+    "price": 97,
+    "author": "P.C. Cast, Kristin Cast",
+    "title": "Marked (House of Night, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1317067002m/30183.jpg",
+
+    "description": "A girl is marked to become a vampire.",
+    "category": "Buy",
+    "Pages": 256
+  },
+  {
+    "book_id": 250,
+    "price": 124,
+    "author": "R.J. Palacio",
+    "title": "Wonder",
+    "imageLink": "https://images.gr-assets.com/books/1309285027m/11387515.jpg",
+
+    "description": "A boy with facial differences enters school.",
+    "category": "Buy",
+    "Pages": 445
+  },
+  {
+    "book_id": 252,
+    "price": 92,
+    "author": "Marissa Meyer",
+    "title": "Cinder (The Lunar Chronicles, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1470056948m/11235712.jpg",
+
+    "description": "A futuristic retelling of Cinderella.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 263,
+    "price": 61,
+    "author": "Gail Carson Levine",
+    "title": "Ella Enchanted",
+    "imageLink": "https://images.gr-assets.com/books/1410727190m/24337.jpg",
+
+    "description": "A retelling of the Cinderella story with a twist.",
+    "category": "Buy",
+    "Pages": 400
+  },
+  {
+    "book_id": 275,
+    "price": 116,
+    "author": "John Green",
+    "title": "An Abundance of Katherines",
+    "imageLink": "https://images.gr-assets.com/books/1360206426m/49750.jpg",
+
+    "description": "A boy dates many Katherines and reflects on love.",
+    "category": "Buy",
+    "Pages": 600
+  },
+  {
+    "book_id": 280,
+    "price": 108,
+    "author": "Lauren Oliver",
+    "title": "Delirium (Delirium, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1327890411m/11614718.jpg",
+
+    "description": "A society where love is considered a disease.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 282,
+    "price": 153,
+    "author": "Neil Gaiman",
+    "title": "Coraline",
+    "imageLink": "https://images.gr-assets.com/books/1493497435m/17061.jpg",
+
+    "description": "A girl discovers an alternate, sinister world.",
+    "category": "Buy",
+    "Pages": 352
+  },
+  {
+    "book_id": 292,
+    "price": 299,
+    "author": "C.S. Lewis, Pauline Baynes",
+    "title": "The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",
+    "imageLink": "https://images.gr-assets.com/books/1343185059m/140225.jpg",
+
+    "description": "A magical sea adventure in Narnia.",
+    "category": "Buy",
+    "Pages": 471
+  },
+  {
+    "book_id": 294,
+    "price": 69,
+    "author": "Rick Riordan",
+    "title": "The Son of Neptune (The Heroes of Olympus, #2)",
+    "imageLink": "https://images.gr-assets.com/books/1464201114m/9520360.jpg",
+
+    "description": "Percy and friends face new dangers.",
+    "category": "Buy",
+    "Pages": 400
+  },
+  {
+    "book_id": 300,
+    "price": 178,
+    "author": "John Boyne",
+    "title": "The Boy in the Striped Pajamas",
+    "imageLink": "https://images.gr-assets.com/books/1366228171m/39999.jpg",
+
+    "description": "A haunting tale of friendship during the Holocaust.",
+    "category": "Buy",
+    "Pages": 192
+  },
+  {
+    "book_id": 309,
+    "price": 96,
+    "author": "Cassandra Clare",
+    "title": "City of Fallen Angels (The Mortal Instruments, #4)",
+    "imageLink": "https://images.gr-assets.com/books/1369452302m/6752378.jpg",
+
+    "description": "Clary faces new threats in the Shadow World.",
+    "category": "Buy",
+    "Pages": 448
+  },
+  {
+    "book_id": 312,
+    "price": 129,
+    "author": "Neil Gaiman, Dave McKean",
+    "title": "The Graveyard Book",
+    "imageLink": "https://images.gr-assets.com/books/1303859949m/2213661.jpg",
+
+    "description": "A boy raised by ghosts in a graveyard.",
+    "category": "Buy",
+    "Pages": 400
+  },
+  {
+    "book_id": 314,
+    "price": 134,
+    "author": "Cornelia Funke, Anthea Bell",
+    "title": "Inkheart (Inkworld, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1328866790m/28194.jpg",
+
+    "description": "A girl brings book characters to life.",
+    "category": "Buy",
+    "Pages": 192
+  },
+  {
+    "book_id": 319,
+    "price": 101,
+    "author": "Cassandra Clare",
+    "title": "City of Lost Souls (The Mortal Instruments, #5)",
+    "imageLink": "https://images.gr-assets.com/books/1460477703m/8755776.jpg",
+
+    "description": "Clary's story continues with new challenges.",
+    "category": "Buy",
+    "Pages": 403
+  },
+  {
+    "book_id": 321,
+    "price": 69,
+    "author": "Wilson Rawls",
+    "title": "Where the Red Fern Grows",
+    "imageLink": "https://images.gr-assets.com/books/1166154337m/10365.jpg",
+
+    "description": "A touching tale of a boy and his dogs.",
+    "category": "Buy",
+    "Pages": 320
+  },
+  {
+    "book_id": 324,
+    "price": 80,
+    "author": "Rainbow Rowell",
+    "title": "Fangirl",
+    "imageLink": "https://images.gr-assets.com/books/1499565420m/16068905.jpg",
+
+    "description": "A girl navigates college life and fandom.",
+    "category": "Buy",
+    "Pages": 180
+  },
+  {
+    "book_id": 327,
+    "price": 91,
+    "author": "Marie Lu",
+    "title": "Legend (Legend, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1501368160m/9275658.jpg",
+
+    "description": "A dystopian thriller with a strong heroine.",
+    "category": "Buy",
+    "Pages": 288
+  },
+  {
+    "book_id": 332,
+    "price": 312,
+    "author": "C.S. Lewis",
+    "title": "The Magician's Nephew (Chronicles of Narnia, #6)",
+    "imageLink": "https://images.gr-assets.com/books/1308814770m/65605.jpg",
+
+    "description": "The origin story of Narnia.",
+    "category": "Buy",
+    "Pages": 432
+  },
+  {
+    "book_id": 340,
+    "price": 38,
+    "author": "Pittacus Lore",
+    "title": "I Am Number Four (Lorien Legacies, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1305807140m/7747374.jpg",
+
+    "description": "A boy with extraordinary powers must hide.",
+    "category": "Buy",
+    "Pages": 256
+  },
+  {
+    "book_id": 347,
+    "price": 348,
+    "author": "C.S. Lewis",
+    "title": "Prince Caspian (Chronicles of Narnia, #2)",
+    "imageLink": "https://images.gr-assets.com/books/1308814880m/121749.jpg",
+
+    "description": "The return to Narnia for a great battle.",
+    "category": "Buy",
+    "Pages": 224
+  },
+  {
+    "book_id": 348,
+    "price": 77,
+    "author": "E. Lockhart",
+    "title": "We Were Liars",
+    "imageLink": "https://images.gr-assets.com/books/1402749479m/16143347.jpg",
+
+    "description": "A family's dark secrets unravel on a private island.",
+    "category": "Buy",
+    "Pages": 288
+  },
+  {
+    "book_id": 351,
+    "price": 99,
+    "author": "Cassandra Clare",
+    "title": "Clockwork Prince (The Infernal Devices, #2)",
+    "imageLink": "https://images.gr-assets.com/books/1460477747m/10025305.jpg",
+
+    "description": "A steampunk adventure with romance and danger.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 355,
+    "price": 87,
+    "author": "Kristin Cashore",
+    "title": "Graceling (Graceling Realm, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1331548394m/3236307.jpg",
+
+    "description": "A girl with exceptional skills fights for justice.",
+    "category": "Buy",
+    "Pages": 400
+  },
+  {
+    "book_id": 363,
+    "price": 79,
+    "author": "Stephanie Perkins",
+    "title": "Anna and the French Kiss (Anna and the French Kiss, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1358271931m/6936382.jpg",
+
+    "description": "A romance set in a Parisian boarding school.",
+    "category": "Buy",
+    "Pages": 288
+  },
+  {
+    "book_id": 368,
+    "price": 55,
+    "author": "Philip Pullman",
+    "title": "The Subtle Knife (His Dark Materials, #2)",
+    "imageLink": "https://images.gr-assets.com/books/1451271814m/119324.jpg",
+
+    "description": "The adventure continues in a battle against evil.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 369,
+    "price": 85,
+    "author": "Jerry Spinelli",
+    "title": "Stargirl (Stargirl, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1335947642m/22232.jpg",
+
+    "description": "A unique girl navigates high school life.",
+    "category": "Buy",
+    "Pages": 320
+  },
+  {
+    "book_id": 370,
+    "price": 76,
+    "author": "Rick Riordan",
+    "title": "The Red Pyramid (Kane Chronicles, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1366227978m/7090447.jpg",
+
+    "description": "Two siblings embark on a quest in Egypt.",
+    "category": "Buy",
+    "Pages": 400
+  },
+  {
+    "book_id": 376,
+    "price": 88,
+    "author": "James Dashner",
+    "title": "The Death Cure (Maze Runner, #3)",
+    "imageLink": "https://images.gr-assets.com/books/1303997647m/7864437.jpg",
+
+    "description": "The conclusion of the Maze Runner saga.",
+    "category": "Buy",
+    "Pages": 600
+  },
+  {
+    "book_id": 382,
+    "price": 86,
+    "author": "John Green, David Levithan",
+    "title": "Will Grayson, Will Grayson",
+    "imageLink": "https://images.gr-assets.com/books/1368393890m/6567017.jpg",
+
+    "description": "A story of friendship and identity.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 384,
+    "price": 93,
+    "author": "Richelle Mead",
+    "title": "Frostbite (Vampire Academy, #2)",
+    "imageLink": "https://images.gr-assets.com/books/1361098960m/2282133.jpg",
+
+    "description": "Vampire politics and teenage drama.",
+    "category": "Buy",
+    "Pages": 288
+  },
+  {
+    "book_id": 386,
+    "price": 127,
+    "author": "Scott O'Dell",
+    "title": "Island of the Blue Dolphins (Island of the Blue Dolphins, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1475166260m/233818.jpg",
+
+    "description": "A girl's survival story on a deserted island.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 393,
+    "price": 73,
+    "author": "Sarah J. Maas",
+    "title": "Throne of Glass (Throne of Glass, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1495278054m/7896527.jpg",
+
+    "description": "A young assassin fights for freedom.",
+    "category": "Buy",
+    "Pages": 288
+  },
+  {
+    "book_id": 394,
+    "price": 88,
+    "author": "Richelle Mead",
+    "title": "Shadow Kiss (Vampire Academy, #3)",
+    "imageLink": "https://images.gr-assets.com/books/1361099049m/2802316.jpg",
+
+    "description": "Secrets and danger in the vampire world.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 399,
+    "price": 131,
+    "author": "J.K. Rowling",
+    "title": "The Tales of Beedle the Bard",
+    "imageLink": "https://images.gr-assets.com/books/1373467575m/3950967.jpg",
+
+    "description": "A collection of fairy tales from the wizarding world.",
+    "category": "Buy",
+    "Pages": 288
+  },
+  {
+    "book_id": 415,
+    "price": 78,
+    "author": "Alyson Noel",
+    "title": "Evermore (The Immortals, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1362336360m/3975774.jpg",
+
+    "description": "A girl finds love and danger among the immortal.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 418,
+    "price": 71,
+    "author": "Richelle Mead",
+    "title": "Spirit Bound (Vampire Academy, #5)",
+    "imageLink": "https://images.gr-assets.com/books/1291168967m/6479259.jpg",
+
+    "description": "A new threat endangers the vampire community.",
+    "category": "Buy",
+    "Pages": 288
+  },
+  {
+    "book_id": 419,
+    "price": 76,
+    "author": "Richelle Mead",
+    "title": "Blood Promise (Vampire Academy, #4)",
+    "imageLink": "https://images.gr-assets.com/books/1442530605m/5996153.jpg",
+
+    "description": "The struggle to protect loved ones continues.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 422,
+    "price": 76,
+    "author": "J.K. Rowling",
+    "title": "Harry Potter Boxset (Harry Potter, #1-7)",
+    "imageLink": "https://images.gr-assets.com/books/1392579059m/862041.jpg",
+
+    "description": "All seven books in the beloved series.",
+    "category": "Buy",
+    "Pages": 1440
+  },
+  {
+    "book_id": 423,
+    "price": 84,
+    "author": "Kiera Cass",
+    "title": "The Elite (The Selection, #2)",
+    "imageLink": "https://images.gr-assets.com/books/1391454595m/16248068.jpg",
+
+    "description": "The competition intensifies in the royal court.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 425,
+    "price": 92,
+    "author": "Beatrice Sparks, Anonymous",
+    "title": "Go Ask Alice",
+    "imageLink": "https://images.gr-assets.com/books/1327870536m/46799.jpg",
+
+    "description": "A diary of a girl struggling with addiction.",
+    "category": "Buy",
+    "Pages": 270
+  },
+  {
+    "book_id": 428,
+    "price": 65,
+    "author": "Rick Riordan",
+    "title": "The Mark of Athena (The Heroes of Olympus, #3)",
+    "imageLink": "https://images.gr-assets.com/books/1464201354m/12127750.jpg",
+
+    "description": "A quest to retrieve a powerful artifact.",
+    "category": "Buy",
+    "Pages": 375
+  },
+  {
+    "book_id": 434,
+    "price": 73,
+    "author": "Becca Fitzpatrick",
+    "title": "Crescendo (Hush, Hush, #2)",
+    "imageLink": "https://images.gr-assets.com/books/1362408146m/7791997.jpg",
+
+    "description": "The stakes rise in a battle of fallen angels.",
+    "category": "Buy",
+    "Pages": 288
+  },
+  {
+    "book_id": 435,
+    "price": 82,
+    "author": "Lauren Oliver",
+    "title": "Before I Fall",
+    "imageLink": "https://images.gr-assets.com/books/1361044695m/6482837.jpg",
+
+    "description": "A girl relives her last day repeatedly.",
+    "category": "Buy",
+    "Pages": 320
+  },
+  {
+    "book_id": 443,
+    "price": 61,
+    "author": "Sarah Dessen",
+    "title": "Just Listen",
+    "imageLink": "https://images.gr-assets.com/books/1358270741m/51738.jpg",
+
+    "description": "A girl learns to find her voice after trauma.",
+    "category": "Buy",
+    "Pages": 400
+  },
+  {
+    "book_id": 452,
+    "price": 102,
+    "author": "Rick Yancey",
+    "title": "The 5th Wave (The 5th Wave, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1359853842m/16101128.jpg",
+
+    "description": "An alien invasion changes life on Earth.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 460,
+    "price": 79,
+    "author": "Cassandra Clare",
+    "title": "Clockwork Princess (The Infernal Devices, #3)",
+    "imageLink": "https://images.gr-assets.com/books/1436788488m/18335634.jpg",
+
+    "description": "The conclusion of the Infernal Devices trilogy.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 475,
+    "price": 8,
+    "author": "Gayle Forman",
+    "title": "Where She Went (If I Stay, #2)",
+    "imageLink": "https://images.gr-assets.com/books/1347810457m/8492825.jpg",
+
+    "description": "A boy copes with loss and seeks forgiveness.",
+    "category": "Buy",
+    "Pages": 256
+  },
+  {
+    "book_id": 480,
+    "price": 42,
+    "author": "Philip Pullman",
+    "title": "The Amber Spyglass (His Dark Materials, #3)",
+    "imageLink": "https://images.gr-assets.com/books/1329189152m/18122.jpg",
+
+    "description": "The battle for the future of multiple worlds.",
+    "category": "Buy",
+    "Pages": 624
+  },
+  {
+    "book_id": 486,
+    "price": 69,
+    "author": "Jeanne DuPrau",
+    "title": "The City of Ember (Book of Ember, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1397931596m/307791.jpg",
+
+    "description": "A city in darkness seeks a light.",
+    "category": "Buy",
+    "Pages": 270
+  },
+  {
+    "book_id": 491,
+    "price": 67,
+    "author": "P.C. Cast, Kristin Cast",
+    "title": "Untamed (House of Night, #4)",
+    "imageLink": "https://images.gr-assets.com/books/1438037020m/2866718.jpg",
+
+    "description": "The vampire world faces upheaval.",
+    "category": "Buy",
+    "Pages": 304
+  },
+  {
+    "book_id": 500,
+    "price": 125,
+    "author": "Meg Cabot",
+    "title": "The Princess Diaries (The Princess Diaries, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1355011082m/38980.jpg",
+
+    "description": "A girl's journey to becoming a princess.",
+    "category": "Buy",
+    "Pages": 288
+  },
+  {
+    "book_id": 506,
+    "price": 94,
+    "author": "Kiera Cass",
+    "title": "The One (The Selection, #3)",
+    "imageLink": "https://images.gr-assets.com/books/1395612906m/18635016.jpg",
+
+    "description": "The final competition for the prince's heart.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 507,
+    "price": 78,
+    "author": "Suzanne Collins",
+    "title": "The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",
+    "imageLink": "https://images.gr-assets.com/books/1360094673m/7938275.jpg",
+
+    "description": "The complete trilogy in one collection.",
+    "category": "Buy",
+    "Pages": 1232
+  },
+  {
+    "book_id": 517,
+    "price": 52,
+    "author": "Simone Elkeles",
+    "title": "Perfect Chemistry (Perfect Chemistry, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1439792475m/4268157.jpg",
+
+    "description": "A romance between opposites in high school.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 525,
+    "price": 76,
+    "author": "Lauren Oliver",
+    "title": "Pandemonium (Delirium, #2)",
+    "imageLink": "https://images.gr-assets.com/books/1310371414m/9593911.jpg",
+
+    "description": "The fight against a love-suppressing society continues.",
+    "category": "Buy",
+    "Pages": 400
+  },
+  {
+    "book_id": 535,
+    "price": 89,
+    "author": "Laini Taylor",
+    "title": "Daughter of Smoke & Bone (Daughter of Smoke & Bone, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1461353773m/8490112.jpg",
+
+    "description": "A girl with a mysterious past discovers her purpose.",
+    "category": "Buy",
+    "Pages": 400
+  },
+  {
+    "book_id": 536,
+    "price": 84,
+    "author": "Victoria Aveyard",
+    "title": "Red Queen (Red Queen, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1411472322m/17878931.jpg",
+
+    "description": "A girl fights against a world divided by blood.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 541,
+    "price": 45,
+    "author": "Sarah Dessen",
+    "title": "The Truth About Forever",
+    "imageLink": "https://images.gr-assets.com/books/1362767907m/51737.jpg",
+
+    "description": "A story of loss, love, and healing.",
+    "category": "Buy",
+    "Pages": 288
+  },
+  {
+    "book_id": 542,
+    "price": 280,
+    "author": "C.S. Lewis",
+    "title": "The Horse and His Boy (Chronicles of Narnia, #5)",
+    "imageLink": "https://images.gr-assets.com/books/1388210968m/84119.jpg",
+
+    "description": "An adventure in Narnia with friendship and courage.",
+    "category": "Buy",
+    "Pages": 224
+  },
+  {
+    "book_id": 543,
+    "price": 63,
+    "author": "Richelle Mead",
+    "title": "Last Sacrifice (Vampire Academy, #6)",
+    "imageLink": "https://images.gr-assets.com/books/1319850978m/6527740.jpg",
+
+    "description": "The final installment in the Vampire Academy series.",
+    "category": "Buy",
+    "Pages": 384
+  },
+  {
+    "book_id": 548,
+    "price": 75,
+    "author": "Sara Shepard",
+    "title": "Pretty Little Liars (Pretty Little Liars, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1377830522m/162085.jpg",
+
+    "description": "A mystery surrounding a group of friends.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 564,
+    "price": 32,
+    "author": "Ned Vizzini",
+    "title": "It's Kind of a Funny Story",
+    "imageLink": "https://images.gr-assets.com/books/1420629730m/248704.jpg",
+
+    "description": "A boy's struggles with mental health and love.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 569,
+    "price": 96,
+    "author": "James Patterson",
+    "title": "The Angel Experiment (Maximum Ride, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1339277875m/13152.jpg",
+
+    "description": "A group of kids with wings fight for survival.",
+    "category": "Buy",
+    "Pages": 368
+  },
+  {
+    "book_id": 577,
+    "price": 127,
+    "author": "Natalie Babbitt",
+    "title": "Tuck Everlasting",
+    "imageLink": "https://images.gr-assets.com/books/1445184695m/84981.jpg",
+
+    "description": "A story about immortality and the cycle of life.",
+    "category": "Buy",
+    "Pages": 240
+  },
+  {
+    "book_id": 583,
+    "price": 65,
+    "author": "Becca Fitzpatrick",
+    "title": "Silence (Hush, Hush, #3)",
+    "imageLink": "https://images.gr-assets.com/books/1362408152m/10637766.jpg",
+
+    "description": "The climax of the Hush, Hush series unfolds.",
+    "category": "Buy",
+    "Pages": 352
+  },
+  {
+    "book_id": 586,
+    "price": 65,
+    "author": "Libba Bray",
+    "title": "A Great and Terrible Beauty (Gemma Doyle, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1284558475m/3682.jpg",
+
+    "description": "A historical fantasy with magic and adventure.",
+    "category": "Buy",
+    "Pages": 403
+  },
+  {
+    "book_id": 591,
+    "price": 67,
+    "author": "Sherman Alexie, Ellen Forney",
+    "title": "The Absolutely True Diary of a Part-Time Indian",
+    "imageLink": "https://images.gr-assets.com/books/1327908992m/693208.jpg",
+
+    "description": "A boy navigates life on a Native American reservation.",
+    "category": "Buy",
+    "Pages": 320
+  },
+  {
+    "book_id": 593,
+    "price": 157,
+    "author": "Ursula K. Le Guin",
+    "title": "A Wizard of Earthsea (Earthsea Cycle, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1353424536m/13642.jpg",
+
+    "description": "A boy learns about magic and responsibility.",
+    "category": "Buy",
+    "Pages": 205
+  },
+  {
+    "book_id": 600,
+    "price": 82,
+    "author": "Lauren Kate",
+    "title": "Torment (Fallen, #2)",
+    "imageLink": "https://images.gr-assets.com/books/1362339749m/7740152.jpg",
+
+    "description": "A sequel filled with dark romance and secrets.",
+    "category": "Buy",
+    "Pages": 480
+  },
+  {
+    "book_id": 602,
+    "price": 257,
+    "author": "C.S. Lewis, Pauline Baynes",
+    "title": "The Silver Chair (Chronicles of Narnia, #4)",
+    "imageLink": "https://images.gr-assets.com/books/1336139237m/65641.jpg",
+
+    "description": "A quest in Narnia with new friends.",
+    "category": "Buy",
+    "Pages": 256
+  },
+  {
+    "book_id": 607,
+    "price": 7,
+    "author": "Cassandra Clare",
+    "title": "City of Heavenly Fire (The Mortal Instruments, #6)",
+    "imageLink": "https://images.gr-assets.com/books/1460477794m/8755785.jpg",
+
+    "description": "The final battle in the Mortal Instruments series.",
+    "category": "Buy",
+    "Pages": 600
+  },
+  {
+    "book_id": 615,
+    "price": 42,
+    "author": "Sarah Dessen",
+    "title": "This Lullaby",
+    "imageLink": "https://images.gr-assets.com/books/1397779294m/22205.jpg",
+
+    "description": "A story about love and growing up.",
+    "category": "Buy",
+    "Pages": 352
+  },
+  {
+    "book_id": 632,
+    "price": 77,
+    "author": "Tahereh Mafi",
+    "title": "Shatter Me (Shatter Me, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1310649047m/10429045.jpg",
+
+    "description": "A girl with a deadly touch struggles for freedom.",
+    "category": "Buy",
+    "Pages": 338
+  },
+  {
+    "book_id": 636,
+    "price": 14,
+    "author": "Mark Cotta Vaz",
+    "title": "The Twilight Saga Breaking Dawn Part 1: The Official Illustrated Movie Companion (The Twilight Saga: The Official Illustrated Movie Companion, #4)",
+    "imageLink": "https://images.gr-assets.com/books/1327904795m/11260526.jpg",
+
+    "description": "A companion to the final Twilight film.",
+    "category": "Buy",
+    "Pages": 144
+  },
+  {
+    "book_id": 641,
+    "price": 245,
+    "author": "C.S. Lewis",
+    "title": "The Last Battle (Chronicles of Narnia, #7)",
+    "imageLink": "https://images.gr-assets.com/books/1308814830m/84369.jpg",
+
+    "description": "The conclusion of the Narnia series.",
+    "category": "Buy",
+    "Pages": 256
+  },
+  {
+    "book_id": 643,
+    "price": 77,
+    "author": "P.C. Cast, Kristin Cast",
+    "title": "Chosen (House of Night, #3)",
+    "imageLink": "https://images.gr-assets.com/books/1393192825m/1326258.jpg",
+
+    "description": "The stakes rise in the House of Night series.",
+    "category": "Buy",
+    "Pages": 288
+  },
+  {
+    "book_id": 645,
+    "price": 74,
+    "author": "Alex Flinn",
+    "title": "Beastly (Beastly, #1; Kendra Chronicles, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1334260193m/544891.jpg",
+
+    "description": "A modern retelling of Beauty and the Beast.",
+    "category": "Buy",
+    "Pages": 320
+  },
+  {
+    "book_id": 655,
+    "price": 63,
+    "author": "Ally Condie",
+    "title": "Crossed (Matched, #2)",
+    "imageLink": "https://images.gr-assets.com/books/1374335939m/15812814.jpg",
+
+    "description": "A struggle for love in a dystopian world.",
+    "category": "Buy",
+    "Pages": 367
+  },
+  {
+    "book_id": 656,
+    "price": 58,
+    "author": "Ally Carter",
+    "title": "I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",
+    "imageLink": "https://images.gr-assets.com/books/1334491180m/852470.jpg",
+
+    "description": "A girl navigates espionage and romance.",
+    "category": "Buy",
+    "Pages": 288
+  },
+  {
+    "book_id": 667,
+    "price": 41,
+    "author": "Sarah Dessen",
+    "title": "Along for the Ride",
+    "imageLink": "https://images.gr-assets.com/books/1479692098m/5664985.jpg",
+
+    "description": "A journey of self-discovery and love.",
+    "category": "Buy",
+    "Pages": 352
+  }
+]

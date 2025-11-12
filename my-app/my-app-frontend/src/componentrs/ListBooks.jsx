@@ -1,56 +1,67 @@
-import Card from "./Card";
-import bookdataback from '../assets/bookdataback.json'
-import { Link } from "react-router-dom";
 import { useEffect, useState } from "react";
-import axios from 'axios';
+import { Link } from "react-router-dom";
+import { useTranslation } from "react-i18next";
+import Card from "./Card";
+import apiClient from "../services/apiClient";
 
 function ListBooks() {
-  const [book, setBook] = useState([]);
-   useEffect(() => {
-     const getBook = async () => {
+  const { t } = useTranslation();
+  const [books, setBooks] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    let isSubscribed = true;
+
+    const fetchBooks = async () => {
       try {
-         const res = await axios.get("http://localhost:4001/book");
-         console.log(res.data);
-         setBook(res.data);
-       } catch (error) {
-         console.log(error);
-       }
-     };
-     getBook();
-   }, []);
+        const response = await apiClient.get("/book");
+        if (!isSubscribed) return;
+        setBooks(response.data?.books ?? []);
+      } catch (err) {
+        if (!isSubscribed) return;
+        setError(err.response?.data?.message || "Failed to load books");
+      } finally {
+        if (isSubscribed) {
+          setIsLoading(false);
+        }
+      }
+    };
+
+    fetchBooks();
+    return () => {
+      isSubscribed = false;
+    };
+  }, []);
 
   return (
-    <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 dark:bg-slate-900">
-      <div className="mt-20 items-center justify-center text-center ">
-        <h1 className="text-2xl font-semibold md:text-4xl">
-          Welcome to Our Digital Library
-          <span className="text-pink-500"> Here ^^!</span>
+    <section className="space-y-10">
+      <header className="text-center">
+        <h1 className="text-3xl font-semibold md:text-4xl">
+          {t("dashboard.uploadBook")}
         </h1>
-        <p className="mt-12">
-          We are thrilled to have you here. Our Digital Library is your gateway to a vast collection of knowledge and resources. Whether you are a student, researcher, or just a curious mind, you will find a wealth of information at your fingertips. Explore our extensive collection of free books and buy books. With just a few clicks, you can dive into a world of learning. Our user-friendly interface makes it easy to find exactly what you want.
-          <span className="text-pink-500"> Enjoy your time in our Digital Library and happy exploring!</span>
+        <p className="mx-auto mt-6 max-w-3xl text-slate-600 dark:text-slate-300">
+          Welcome to the curated digital library. Browse featured research, course materials, and community-submitted
+          books. Use the advanced search for precise filtering across metadata and tags.
         </p>
-        <Link to="/">
-        <button className="bg-pink-500 text-white px-4 py-2 rounded-md mt-12 hover:bg-pink-800 duration-300">
-          Back
-        </button>
+        <Link className="btn btn-outline btn-sm mt-6" to="/search">
+          {t("nav.search")}
         </Link>
-      </div>
-      <div className="mt-8 grid grid-cols-1 md:grid-cols-3">
-        {bookdataback.map((item) => (
-          <Card
-            key={item.id}
-            title={item.title}
-            imageLink={item.imageLink}
-            price={item.price}
-            author={item.author}
-            category={item.category}
-            description={item.description}
-            pages={item.pages}
-          />
+      </header>
+
+      {isLoading && <p className="text-center text-sm text-slate-500">Loading collection...</p>}
+      {error && <p className="text-center text-sm text-red-500">{error}</p>}
+
+      <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-3">
+        {books.map((book) => (
+          <Card key={book._id} book={book} />
         ))}
       </div>
-    </div>
+
+      {!isLoading && !error && books.length === 0 && (
+        <div className="text-center text-sm text-slate-500">No books uploaded yet. Check back soon!</div>
+      )}
+    </section>
   );
 }
 

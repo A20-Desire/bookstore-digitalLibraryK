@@ -1,0 +1,38 @@
+{
+  "nav": {
+    "home": "Home",
+    "books": "Library",
+    "about": "About",
+    "contact": "Contact",
+    "translate": "Translate",
+    "community": "Community",
+    "admin": "Admin",
+    "analytics": "Analytics",
+    "search": "Advanced Search"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "signup": "Create account",
+    "adminDashboard": "Admin Dashboard"
+  },
+  "dashboard": {
+    "uploadBook": "Upload Book",
+    "recentUploads": "Recent Uploads",
+    "analytics": "Analytics Overview",
+    "users": "New Members"
+  },
+  "community": {
+    "title": "Community Discussion",
+    "addComment": "Share your thoughts",
+    "reply": "Reply",
+    "empty": "No discussion yet. Be the first to join!",
+    "placeholder": "Type your message"
+  },
+  "search": {
+    "title": "Advanced Search",
+    "filters": "Filters",
+    "apply": "Apply",
+    "reset": "Reset"
+  }
+}

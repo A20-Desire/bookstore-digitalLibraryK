@@ -1,18 +1,11 @@
-
-import NavBar from '../componentrs/NavBar';
-import Footer from '../componentrs/Footer';
 import ListBooks from '../componentrs/ListBooks';
-function Books() {
 
+function Books() {
   return (
-    <>
-    <NavBar/>
-    <div className='min-h-screen'>
-        <ListBooks/>
+    <div className="space-y-8">
+      <ListBooks />
     </div>
-    <Footer/>
-    </>
-  )
+  );
 }
 
-export default Books
+export default Books;

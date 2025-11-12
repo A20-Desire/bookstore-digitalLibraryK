@@ -1,19 +1,13 @@
-import Banner from "../componentrs/Banner"
-import Book from "../componentrs/Book"
-import Footer from "../componentrs/Footer"
-import NavBar from "../componentrs/NavBar"
-
+import Banner from "../componentrs/Banner";
+import Book from "../componentrs/Book";
 
 function Home() {
   return (
-    <>
-    <NavBar/>
-    <Banner/>
-    <Book/>
-    <Footer/>
-
-    </>
+    <div className="space-y-12">
+      <Banner />
+      <Book />
+    </div>
   );
 }
 
-export default Home
+export default Home;

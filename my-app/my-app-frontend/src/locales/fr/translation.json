@@ -1,0 +1,38 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "books": "Bibliothèque",
+    "about": "À propos",
+    "contact": "Contact",
+    "translate": "Traduire",
+    "community": "Communauté",
+    "admin": "Admin",
+    "analytics": "Analytique",
+    "search": "Recherche avancée"
+  },
+  "auth": {
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "signup": "Créer un compte",
+    "adminDashboard": "Tableau de bord"
+  },
+  "dashboard": {
+    "uploadBook": "Téléverser un livre",
+    "recentUploads": "Derniers ajouts",
+    "analytics": "Vue d'ensemble",
+    "users": "Nouveaux membres"
+  },
+  "community": {
+    "title": "Discussion communautaire",
+    "addComment": "Partagez vos idées",
+    "reply": "Répondre",
+    "empty": "Aucune discussion pour le moment.",
+    "placeholder": "Écrivez votre message"
+  },
+  "search": {
+    "title": "Recherche avancée",
+    "filters": "Filtres",
+    "apply": "Appliquer",
+    "reset": "Réinitialiser"
+  }
+}

@@ -1,32 +1,21 @@
-
-import { Navigate, Route, Routes, createBrowserRouter } from "react-router-dom"
-import Home from "./home/Home"
-import About from "./componentrs/About"
-import Contact from "./componentrs/Contact"
-import Books from "./Books/Books"
-import SignUp from "./componentrs/SignUp"
-import VoiceTranslator from "./componentrs/VoiceTranslator"
-import {Toaster} from 'react-hot-toast'
-import { useAuth } from "./context/AuthProvider"
-
+import { Outlet } from "react-router-dom";
+import { Toaster } from "react-hot-toast";
+import NavBar from "./componentrs/NavBar";
+import Footer from "./componentrs/Footer";
 
 function App() {
-  const [authUser, setAuthUser] = useAuth();
-  console.log(authUser);
-
   return (
-    <>
-     <Routes>
-        <Route path="/" element={<Home/>}/>
-        <Route path="books"element={authUser ? <Books /> : <Navigate to="/signup" />} />
-        <Route path="about" element={<About/>} />
-        <Route path="contact" element={<Contact/>} />
-        <Route path="signup" element={<SignUp/>}/>
-        <Route path="translate" element={<VoiceTranslator/>} />
-     </Routes>
-     <Toaster/>
-    </>
-  )
+    <div className="min-h-screen flex flex-col bg-base-100 dark:bg-slate-900 dark:text-white">
+      <NavBar />
+      <main className="flex-1 pt-24 pb-12">
+        <div className="max-w-screen-2xl mx-auto w-full px-4 md:px-8">
+          <Outlet />
+        </div>
+      </main>
+      <Footer />
+      <Toaster position="top-right" />
+    </div>
+  );
 }
 
-export default App
+export default App;

@@ -1,8 +1,9 @@
 import { createRoot } from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
-import { BrowserRouter, createBrowserRouter, RouterProvider } from 'react-router-dom'
-import AuthProvider from './context/AuthProvider.jsx'
+import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import AuthProvider from './context/Authprovider.jsx'
+import './i18n/index.js'
 
 
 const router = createBrowserRouter([

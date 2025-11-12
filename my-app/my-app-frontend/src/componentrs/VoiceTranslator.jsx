@@ -65,7 +65,7 @@ function VoiceTranslator() {
     
     try {
       setTranslatedText('Translating...');
-      const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:4000';
+  const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:4001';
       const response = await fetch(`${API_URL}/api/translate`, {
         method: 'POST',
         body: JSON.stringify({
